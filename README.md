@@ -1,13 +1,6 @@
-## Olá! Eu sou o Hebert Barbosa, seja bem vindo! 🖔
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-barbosa)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hebeertluiz)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatohebertuiz@gmail.com)
-
-[![Hebert GitHub stats](https://github-readme-stats.vercel.app/api?username=devhebert&&theme=tokyonight)](https://github.com/devhebert/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+## Olá! Eu sou o Hebert Barbosa, seja muito bem vindo! 🖔
+Em 2020, recebi o diagnóstico de câncer e infelizmente descobri que havia metástase em meus pulmões e intestino. Foi nesse momento que decidi mudar minha carreira e explorei a área da tecnologia. Sempre fui familiarizado com computadores e formatação, mas nunca havia trabalhado com programação antes. Foi quando tive meu primeiro contato com a área através de um curso de chatbot e me apaixonei imediatamente. Decidi que queria seguir esse caminho para poder ajudar as pessoas através da tecnologia, criando algo que pudesse impactar positivamente suas vidas. Embora a jornada seja longa, estou determinado a me tornar um profissional de sucesso e realizar GRANDES coisas!
+<br>
 
 ### Tecnologias que uso e estou aprendendo no meu dia a dia
 <div style="dispaly: inline_block">
@@ -21,4 +14,15 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
+<br>
 
+[![Hebert GitHub stats](https://github-readme-stats.vercel.app/api?username=devhebert&&theme=tokyonight)](https://github.com/devhebert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-barbosa)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hebeertluiz)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatohebertuiz@gmail.com)
