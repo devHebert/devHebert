@@ -16,7 +16,7 @@ Em 2020, recebi o diagnóstico de câncer e em 2021 infelizmente descobri que ha
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhebert&layout=pie)](https://github.com/devhebert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhebert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Hebert GitHub stats](https://github-readme-stats.vercel.app/api?username=devhebert&&theme=tokyonight)](https://github.com/devhebert/github-readme-stats)
 
 <br>
